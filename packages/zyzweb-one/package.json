@@ -1,10 +1,9 @@
 {
-  "name": "one",
+  "name": "zyzweb-one",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zyzweb <zyz1609062132@gmail.com>",
   "homepage": "",
-  "license": "ISC",
   "main": "lib/one.js",
   "directories": {
     "lib": "lib",
@@ -20,7 +19,9 @@
     "type": "git",
     "url": ""
   },
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "4ef76fc9cac1604da3894d039fd31c51c6638871"
 }

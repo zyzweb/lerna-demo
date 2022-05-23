@@ -1,10 +1,10 @@
 {
-  "name": "two",
+  "name": "zyzweb-two",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zyzweb <zyz1609062132@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/two.js",
   "directories": {
     "lib": "lib",
@@ -22,5 +22,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "4ef76fc9cac1604da3894d039fd31c51c6638871"
 }
