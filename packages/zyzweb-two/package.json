@@ -21,7 +21,7 @@
     "url": ""
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "start": "node test.js"
   },
   "gitHead": "4ef76fc9cac1604da3894d039fd31c51c6638871"
 }
